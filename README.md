@@ -18,12 +18,15 @@ The app should consist of the following parts:
 - [Documentation for the API](https://data.rijksmuseum.nl/object-metadata/api/). Everything you need to access the API should be on this page
 - [How to get an API key](https://data.rijksmuseum.nl/object-metadata/api/#access-to-apis)
 
-## Guidelines
+## Guidelines & Requirements
 - This small app should give us a good idea of your coding skills.
+- The app should work as soon as we open/run it in AS, no changes/additions required.
 - Use only Kotlin.
 - Use Jetpack Compose for the UI.
+- Do not use Kotlin/Compose multiplatform.
+- Try to keep you code as simple as possible.
 - Pay attention to edge cases.
 - The app should be resilient to network failures.
 - Do not focus too much on styling the UI.
 - Keep testability in mind.
-- You can use 3rd party libraries and framework. However let us see some of your own coding as well.
+- You can use 3rd party libraries and frameworks. However let us see some of your own coding as well.
